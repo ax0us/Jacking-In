@@ -1,2 +1,2 @@
 # Jacking-In
-Code Snippets from `$Jacking -In` ; Blog
+Code Snippets From `$Jacking -In` ; Blog
